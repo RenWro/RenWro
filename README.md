@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://github.com/RenWro/RenWro/assets/134458911/1bb0e86d-bb0b-44e7-9c52-564f2fa45223)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **RenWro/RenWro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
