@@ -12,6 +12,8 @@
 <div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenWro&show_icons=true&theme=transparent)
+
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenWro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </p>
     <img src="https://github.com/RenWro/RenWro/assets/134458911/806c9f90-a219-471a-b6ee-0e7074bec773" alt="AWS-Dark" width="30px" style="margin: 5px;">
     <img src="https://github.com/RenWro/RenWro/assets/134458911/5a2af0c3-b522-45e9-a1a9-3e7c03278a22" alt="HTML" width="30px" style="margin: 5px;">
