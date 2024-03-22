@@ -70,9 +70,9 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 </div>
 
 
-    <img src="https://github.com/RenWro/RenWro/assets/134458911/806c9f90-a219-471a-b6ee-0e7074bec773" alt="AWS-Dark" width="30px" style="margin: 5px;">
-    <img src="https://github.com/RenWro/RenWro/assets/134458911/5a2af0c3-b522-45e9-a1a9-3e7c03278a22" alt="HTML" width="30px" style="margin: 5px;">
-    <img src="https://github.com/RenWro/RenWro/assets/134458911/3a29a24f-905d-45c9-9803-e42f03e8689c" alt="CSS" width="30px" style="margin: 5px;">
+//   <img src="https://github.com/RenWro/RenWro/assets/134458911/806c9f90-a219-471a-b6ee-0e7074bec773" alt="AWS-Dark" width="30px" style="margin: 5px;">
+//     <img src="https://github.com/RenWro/RenWro/assets/134458911/5a2af0c3-b522-45e9-a1a9-3e7c03278a22" alt="HTML" width="30px" style="margin: 5px;">
+//    <img src="https://github.com/RenWro/RenWro/assets/134458911/3a29a24f-905d-45c9-9803-e42f03e8689c" alt="CSS" width="30px" style="margin: 5px;">
     <img src="https://github.com/RenWro/RenWro/assets/134458911/6fc56359-3662-4dff-8452-396b595dc6a2" alt="Kotlin-Dark" width="30px" style="margin: 5px;">
     <img src="https://github.com/RenWro/RenWro/assets/134458911/5d74d732-11a6-49e8-9a74-52c8b00eeaf3" alt="AndroidStudio-Dark" width="30px" style="margin: 5px;">
     <img src="https://github.com/RenWro/RenWro/assets/134458911/7e19f28c-6266-43c8-b906-c50d3dec65c6" alt="Photoshop" width="30px" style="margin: 5px;">
