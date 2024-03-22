@@ -1,20 +1,76 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Ren;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://github.com/RenWro/RenWro/assets/134458911/29143b94-27ae-4226-9454-47a0d54627c0">
 </div>
-<p></p>
 
 
 
 
 <div style="display: flex; flex-wrap: wrap;">
+<br>
 
-<div align="center">
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=RenWro&theme=transparent&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenWro&layout=compact&theme=transparent" />
+</div>
+</div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenWro&show_icons=true&theme=transparent)
+
+<br>
 
   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenWro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </p>
+
+## Language and Tools
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+
+
+#### Studying in this moment:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+
+#### Tools:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
+<br>
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
+**Software Engineering Undergraduate** \
+[**UNINTER**](https://www.uninter.com/)  • In progress\
+Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Security` `Software Quality`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
+**Full Stack Developer** \
+[**One Bit Code**](https://www.onebitcode.com/) • In progress \
+Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
+`Bulma` `MongoDB` `ElectronJS`
+
+<br>
+
+## Contact me:
+<div>
+<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: contatojacquelineatae@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
     <img src="https://github.com/RenWro/RenWro/assets/134458911/806c9f90-a219-471a-b6ee-0e7074bec773" alt="AWS-Dark" width="30px" style="margin: 5px;">
     <img src="https://github.com/RenWro/RenWro/assets/134458911/5a2af0c3-b522-45e9-a1a9-3e7c03278a22" alt="HTML" width="30px" style="margin: 5px;">
     <img src="https://github.com/RenWro/RenWro/assets/134458911/3a29a24f-905d-45c9-9803-e42f03e8689c" alt="CSS" width="30px" style="margin: 5px;">
@@ -32,8 +88,6 @@
     <img src="https://github.com/RenWro/RenWro/assets/134458911/5b0d21b2-961d-43ab-9a7d-4bb7623fc7ca" alt="Discord" width="30px" style="margin: 5px;">
 
 
-</div>
 
 
-</div>
 
