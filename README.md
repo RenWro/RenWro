@@ -51,9 +51,9 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="USP" src="[https://scs.usp.br/identidadevisual/?page_id=33"/>](https://www.usp.br)
+[<img align="left" height="94px" width="94px" alt="USP" src="[https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/usp-logo-png-768x576.png"/>](https://www.usp.br)
 [<img align="left" height="94px" width="94px" alt="UniAmérica" src="[[https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kcJ9UhGjl95FbvCxWZ437ZYjes2OteIwAkzARLn4uQ&s)])"/>](https://descomplica.com.br/faculdade/?nis=8)
-**Computer Engineering Undergraduate** \
+**Computer Engineering Undergraduate** 
 
 <br>
 
