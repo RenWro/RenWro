@@ -63,7 +63,9 @@
 [<img align="left" height="94px" width="94px" alt="UniAmérica" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kcJ9UhGjl95FbvCxWZ437ZYjes2OteIwAkzARLn4uQ&s"/>](https://descomplica.com.br/faculdade)
 <br>
 **Computer Engineering ongoing Undergraduate** 
+<br>
 **Social Sciences Undergraduate** 
+<br>
 **Philosophy Graduate** 
 
 <br>
