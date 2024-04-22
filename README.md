@@ -64,7 +64,7 @@
 <br>
 **Computer Engineering ongoing Undergraduate** 
 <br>
-**Social Sciences Undergraduate** 
+**Social Sciences Graduate** 
 <br>
 **Philosophy Graduate** 
 
