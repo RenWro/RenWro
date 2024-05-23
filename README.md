@@ -10,7 +10,7 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45%  height= 400px align="center" src="https://github-readme-stats.vercel.app/api?username=RenWro&theme=transparent&show_icons=true" />
+ <img width=45%  align="center" src="https://github-readme-stats.vercel.app/api?username=RenWro&theme=transparent&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenWro&layout=compact&theme=transparent" />
 </div>
 </div>
