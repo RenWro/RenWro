@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2835AF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Ren;I'm+an+IT+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2835AF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Ren;I'm+an+IT+Student+and+a+Philosophy+Researcher)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://github.com/RenWro/RenWro/assets/134458911/29143b94-27ae-4226-9454-47a0d54627c0">
 </div>
