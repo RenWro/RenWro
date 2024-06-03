@@ -54,9 +54,10 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=replit"/>](https://replit.com/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RenWro1&theme=black-ice)](https://git.io/streak-stats)
+
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RenWro1&theme=black-ice)](https://git.io/streak-stats)
-<br>
 
 ## Academic Background:
 
