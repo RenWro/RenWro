@@ -54,7 +54,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=replit"/>](https://replit.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=renwro&currStreakNum=2FD3EB&fire=black-ice&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=renwro&theme=black-ice&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=renwro1&theme=black-ice)](https://git.io/streak-stats)
 
 
