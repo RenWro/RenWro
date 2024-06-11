@@ -3,6 +3,7 @@
 <img src="https://github.com/RenWro/RenWro/assets/134458911/29143b94-27ae-4226-9454-47a0d54627c0">
 </div>
 
+<img width="465" alt="Captura de Tela 2024-06-08 às 16 49 41" src="https://github.com/RenWro/RenWro/assets/134458911/62dd773a-340a-4019-aba0-099b166494a0">
 
 
 
