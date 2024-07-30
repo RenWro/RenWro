@@ -61,8 +61,8 @@
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="USP" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-3.png"/>](https://www.usp.br)
-ttps://github.com/user-attachments/assets/be4700dc-7ef1-477f-b825-4e527a774d54"/>](https://univesp.br/)
-[<img align="left" height="94px" width="94px" alt="Senac src="https://github.com/user-attachments/assets/6543957b-aa7f-451c-a1d0-c7cfeaf39e8b"/>](https://www.sp.senac.br/)
+[<img align="left" height="94px" width="94px" alt="UNIVESP" src="https://github.com/user-attachments/assets/be4700dc-7ef1-477f-b825-4e527a774d54"/>](https://univesp.br/)
+[<img align="left" height="94px" width="94px" alt="Senac" src="https://github.com/user-attachments/assets/6543957b-aa7f-451c-a1d0-c7cfeaf39e8b"/>](https://www.sp.senac.br/)
 
 **Internet Technical School** 
 <br>
@@ -70,7 +70,7 @@ ttps://github.com/user-attachments/assets/be4700dc-7ef1-477f-b825-4e527a774d54"/
 <br>
 **Social Sciences Graduate** 
 <br>
-**Philosophy Graduate** 
+**Philosophy onogoing PhD Graduate** 
 
 <br>
 <br>
