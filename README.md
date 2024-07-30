@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2835AF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Ren;I'm+an+IT+Student+and+a+Philosophy+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2835AF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Ren;I'm+a+Computer+Engineering+Student+and+a+Philosophy+Researcher)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://github.com/RenWro/RenWro/assets/134458911/29143b94-27ae-4226-9454-47a0d54627c0">
 </div>
@@ -61,7 +61,8 @@
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="USP" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-3.png"/>](https://www.usp.br)
-[<img align="left" height="94px" width="94px" alt="UniAmérica" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kcJ9UhGjl95FbvCxWZ437ZYjes2OteIwAkzARLn4uQ&s"/>](https://descomplica.com.br/faculdade)
+[<img align="left" height="94px" width="94px" alt="Univesp" src="![image](https://github.com/user-attachments/assets/be4700dc-7ef1-477f-b825-4e527a774d54)"/>](https://univesp.br/)
+"/>](https://descomplica.com.br/faculdade)
 **Internet Technical School** 
 <br>
 **Computer Engineering ongoing Undergraduate** 
