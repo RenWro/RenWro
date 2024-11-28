@@ -65,8 +65,6 @@
 [<img align="left" height="112px" width="112px" alt="Senac" src="https://github.com/user-attachments/assets/6543957b-aa7f-451c-a1d0-c7cfeaf39e8b"/>](https://www.sp.senac.br/)
 [<img align="left" height="112px" width="112px" alt="42 School" src="https://github.com/user-attachments/assets/521e9fb5-5041-47e3-a192-f2b3dc54d09b"/>](https://42berlin.de/)
 
-![image](https://github.com/user-attachments/assets/521e9fb5-5041-47e3-a192-f2b3dc54d09b)
-
 
 **Software Engineering Student @ 42 School Berlin** 
 <br>
