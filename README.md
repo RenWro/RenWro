@@ -64,6 +64,8 @@
 [<img align="left" height="94px" width="94px" alt="UNIVESP" src="https://github.com/user-attachments/assets/be4700dc-7ef1-477f-b825-4e527a774d54"/>](https://univesp.br/)
 [<img align="left" height="94px" width="94px" alt="Senac" src="https://github.com/user-attachments/assets/6543957b-aa7f-451c-a1d0-c7cfeaf39e8b"/>](https://www.sp.senac.br/)
 
+**Software Engineering Student @ 42 School Berlin** 
+<br>
 **Internet Technical School** 
 <br>
 **Computer Engineering ongoing Undergraduate** 
